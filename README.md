@@ -1,2 +1,2 @@
 # Blueload-GX
-Upcoming way to mod V2 Switches
+Upcoming way to mod V2 Nintendo Switches, similar to [Bluebomb](https://github.com/Fullmetal5/bluebomb)
