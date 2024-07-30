@@ -4,6 +4,8 @@ Upcoming "ways" to mod V2 Nintendo Switches.
 ## Warning
 Follow instructions below, so the actual mod doesn't malfunction.
 
+## Deprecated
+This project is deprecated. No updates or releases will come out.
 ## microSD
 Insert microSD into computer, install Latest Version of Hekate, Atmosphere, bootlogos, and the hekate_ipl.ini.
 
